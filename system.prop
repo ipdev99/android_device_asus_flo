@@ -69,5 +69,8 @@ debug.fdsan=warn_once
 # Display
 persist.hwc.mdpcomp.enable=true
 
-# by default, do not update the recovery image
-persist.vendor.recovery_update=false
+# # by default, do not update the recovery image
+# persist.vendor.recovery_update=false
+
+# # Vendor security patch level
+# ro.lineage.build.vendor_security_patch=2016-08-05
